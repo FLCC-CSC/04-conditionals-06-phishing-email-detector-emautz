@@ -98,7 +98,8 @@ Analyzed subject: "Did you request a password reset?"
 '''
 
 1. Was using `in` difficult or was it natural?
-
+ Using in was pretty natural to me. The only thing I found difficult is that in has to be used for each condition. 
+ Otherwise, python just reads the in for the condition that it is directly refering to.
 
 
 
